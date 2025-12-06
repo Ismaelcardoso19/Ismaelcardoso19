@@ -37,7 +37,7 @@ Sou o Ismael , desenvolvedor apaixonado por tecnologia, inovação e projetos op
 <!-- Contato e redes sociais -->
 ## 🌐 Contato & Redes
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](linkedin.com/in/ismael-cardoso-46b304355)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ismael-cardoso-46b304355)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](cardosoismael469@gmail.com)
 
 ---
